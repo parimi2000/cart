@@ -13,9 +13,9 @@ export class ProductListComponent {
   share() {
     window.alert('The product has been shared!');
   }
-  onNotify() {
-    window.alert('you will be notified on sale');
-  }
+  // onNotify() {
+  //   window.alert('you will be notified on sale');
+  // }
 }
 
 
