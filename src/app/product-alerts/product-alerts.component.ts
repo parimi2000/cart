@@ -9,8 +9,8 @@ import { Product } from '../products';
 })
 export class ProductAlertsComponent implements OnInit {
 
-  @Input()
-  productI !: Product;
+  // @Input()
+  // productI !: Product;
   // @Output()
   // notifyme = new EventEmitter();
 
